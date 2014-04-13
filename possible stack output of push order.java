@@ -19,7 +19,7 @@ for all numbers after n1 in input they become a smaller question
  T(n) = T(n-k) + O(n)
  worst time complexity is O(n^2)
 
-/
+*/
 import java.util.HashSet;
 import java.util.Arrays;
 
